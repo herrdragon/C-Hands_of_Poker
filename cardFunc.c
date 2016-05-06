@@ -1,11 +1,6 @@
 // cardFunc.c
 /******************************************************************************/
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #4.   DUE Thursday 3/10
-*/
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 /*DESCRIPTION: functions to most common manipulation of a deck of cards.
 * create a deck, display a deck, shuffle a deck, deal a specific number of cards
 * to specific number of players, and display hands. It also validate the user 
